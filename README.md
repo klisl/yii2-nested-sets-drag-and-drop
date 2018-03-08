@@ -1,4 +1,4 @@
-yii2-Nested-Sets-Drag-and-drop
+yii2-nested-sets-drag-and-drop
 =================
 
 Расширение для работы с древовидной структурой элементов хранимых в базе данных по принципу "Nested Sets".
@@ -25,7 +25,7 @@ yii2-Nested-Sets-Drag-and-drop
 ------------------
 * Установка расширения с помощью Composer.
 ```
-composer require klisl/yii2-Nested-Sets-Drag-and-drop
+composer require klisl/yii2-nested-sets-drag-and-drop
 ```
 
 Процесс настройки расширения подробно описан в статье по ссылке
