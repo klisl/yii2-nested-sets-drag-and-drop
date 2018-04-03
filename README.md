@@ -9,7 +9,7 @@ yii2-nested-sets-drag-and-drop
 *   jquery.nestable plugin: (http://dbushell.github.io/Nestable)
 
 Внешний вид дерева элементов:
-![enter image description here](http://klisl.com/frontend/web/images/posts/yii2-Nested-Sets-Drag-and-drop2.jpg)
+![enter image description here](https://klisl.com/frontend/web/images/posts/yii2-Nested-Sets-Drag-and-drop2.jpg)
 
 
 Основные действия (с учетом Nested Sets):
@@ -29,4 +29,4 @@ composer require klisl/yii2-nested-sets-drag-and-drop
 ```
 
 Процесс настройки расширения подробно описан в статье по ссылке
-[klisl.com](http://klisl.com/yii2-Nested-Sets-Drag-and-drop.html)  
+[klisl.com](https://klisl.com/yii2-Nested-Sets-Drag-and-drop.html)  
